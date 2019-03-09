@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Post on Alexander Bodin</title>
+    <link>https://alexanderbodin.github.io/tags/post/</link>
+    <description>Recent content in Post on Alexander Bodin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Alexander Bodin - All rights reserved</copyright>
+    <lastBuildDate>Tue, 01 Jan 2019 15:25:19 +0200</lastBuildDate>
+    
+	<atom:link href="https://alexanderbodin.github.io/tags/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Y2K38 Problem</title>
+      <link>https://alexanderbodin.github.io/blog/y2k38/</link>
+      <pubDate>Tue, 01 Jan 2019 15:25:19 +0200</pubDate>
+      
+      <guid>https://alexanderbodin.github.io/blog/y2k38/</guid>
+      <description>Jake entered the room - he literly paniced as he has seen what time it was. It was Januarary, the xx. 2038. He still had a few hours.</description>
+    </item>
+    
+  </channel>
+</rss>
